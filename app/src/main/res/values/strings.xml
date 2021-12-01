@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="header">Welcome to Tic Tac Toe</string>
+    <string name="onclick">gameRestart</string>
+    <string name="status">X\' Turn Tap on box</string>
+    <string name="imageView1">Grid</string>
+    <string name="restart">  Restart</string>
+    <string name="imageView9">gradientFade</string>
+
+    <string name="banner">339962074271690_339963117604919</string>
+</resources>
